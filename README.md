@@ -28,13 +28,7 @@ It uses the Merriam-Webster API to fetch real-time word meanings, pronunciations
 
 ## Preview
 
-(Add a screenshot here later if needed)
 <img width="1919" height="906" alt="Screenshot 2026-04-21 140715" src="https://github.com/user-attachments/assets/239db3c4-5d25-442f-95cf-19d19b9b8547" />
 
 
-## Installation and Setup
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/dictionary-app.git
